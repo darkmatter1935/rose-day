@@ -53,3 +53,6 @@ if st.button("Click for a hug! 🤗"):
     st.balloons()
     st.snow()  # Looks like falling petals if you imagine hard enough!
     st.write("❤️ I love you so much! ❤️")
+streamlit
+streamlit-lottie
+requests
